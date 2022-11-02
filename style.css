@@ -1,0 +1,78 @@
+body {
+  background-color: #B8D8B8;
+  text-align: center;
+}
+
+.nick {
+  font-family: Ink free;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.way {
+  font-family: monospace;
+  text-align: center;
+}
+
+.fox {
+  height: 200px;
+  width: 200px;
+  background-size: cover;
+  display: block;
+  border-radius: 180px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.line {
+  border-top: 5px;
+  border-color: black;
+  border-style: dotted;
+  border-radius: 40px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+.certificate {
+  text-align: left;
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+.fire {
+  background-image: url(https://www.javatpoint.com/oprweb/forest.jpg);
+  height: 100%;
+  width: 100;
+  background-repeat: no-repeat, no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.cer {
+  text-align: left;
+  font-size: 40px;
+}
+
+.facebook {
+  height: 50px;
+  width: 50px;
+}
+
+.instagram {
+  height: 50px;
+  width: 50px
+}
+
+.twitter {
+  height: 50px;
+  width: 50px;
+}
+
+
+.lab{
+  font-size: 30px;
+  font-family: monospace;
+}
+.check{
+  font-size:20px;
+}
